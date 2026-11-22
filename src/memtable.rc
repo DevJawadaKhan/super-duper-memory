@@ -1,0 +1,22 @@
+1 ICON "memtable.ico"
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "FileDescription", "Memory Periodic Table"
+      VALUE "ProductName", "Memory Periodic Table"
+      VALUE "FileVersion", "1.0.0"
+      VALUE "ProductVersion", "1.0.0"
+      VALUE "CompanyName", "Jawad Ahmed Khan"
+      VALUE "OriginalFilename", "MemoryPeriodicTable.exe"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END
